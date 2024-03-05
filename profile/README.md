@@ -1,5 +1,6 @@
-## Hi there 👋
+## <img src="./assets/embericon.png" width="40"> Welcome to Ember Labs 👋
 
+Since 2021 we are creating optimized technologic experiences and products for everyone.
 <!--
 
 **Here are some ideas to get you started:**
