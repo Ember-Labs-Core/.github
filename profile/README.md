@@ -9,7 +9,7 @@
 
   <hr>
 
-  | 🧙 [Services](#markdown-🧙-services) | 🙋‍♀️ [Open Source](#markdown🙋‍♀️-open-Source) | 🍿 Ember Now (soon) | ✉️ [Contact](mailto:ceo@ember-labs.org) | 🌐 [Website (only pt-BR)](https://ember-labs.org/) |
+  | 🧙 [Services](#markdown-services) | 🙋‍♀️ [Open Source](#markdown-open-source) | 🍿 Ember Now (soon) | ✉️ [Contact](mailto:ceo@ember-labs.org) | 🌐 [Website (only pt-BR)](https://ember-labs.org/) |
   | - | - | - | - | - |
 </div>
 
