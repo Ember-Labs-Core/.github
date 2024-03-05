@@ -9,7 +9,7 @@
 
   <hr>
 
-  | 🧙 [Services](#Services) | 🙋‍♀️ Open Source (soon) | 🍿 Ember Now (soon) | ✉️ [Contact](mailto:ceo@ember-labs.org) | 🌐 [Website (only pt-BR)](https://ember-labs.org/) |
+  | 🧙 [Services](#Services) | 🙋‍♀️ [Open Source](#Open-Source) | 🍿 Ember Now (soon) | ✉️ [Contact](mailto:ceo@ember-labs.org) | 🌐 [Website (only pt-BR)](https://ember-labs.org/) |
   | - | - | - | - | - |
 </div>
 
@@ -34,3 +34,9 @@ Our services includes the development of:
 | 🎧 Real-time customer success and support solutions |
 | - |
 | With our support dashboard, tickets and support solutions you can <br> automate your company's contact with your customers |
+
+## 🙋‍♀️ Open Source
+
+We belive that open source is the best way to have fine quality software. Open sourcing makes a better programming society and brings knowledge to everyone. Check out our FOSS projects:
+
+> Coming soon
