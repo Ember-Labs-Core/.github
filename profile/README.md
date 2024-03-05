@@ -7,7 +7,7 @@
 
   *Since 2021 creating magical and optimized technologic experiences and products for everyone.*
 
-  <img height="30" src="https://skillicons.dev/icons?i=js,ts,cs,php,docker,nodejs,nestjs,aws,linux,windows,git,jest,mongodb,postgres,mysql,redis" />
+  <img height="30" src="https://skillicons.dev/icons?i=js,ts,cs,php,docker,nodejs,azure,aws,linux,git,jest,mongodb,postgres,mysql,redis" />
 
   <hr>
 
