@@ -9,6 +9,6 @@
 
   <hr>
 
-  | 🧙 Services | 🙋‍♀️ Open Source | 🍿 Ember Now | 📞 Contact | 🌐 Website |
+  | 🧙 Services | 🙋‍♀️ Open Source (soon) | 🍿 Ember Now (soon) | 📞 [Contact](mailto:ceo@ember-labs.org) | 🌐 [Website](https://ember-labs.org/) |
   | - | - | - | - | - |
 </div>
