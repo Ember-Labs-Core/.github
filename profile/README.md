@@ -7,6 +7,8 @@
 
   *Since 2021 creating magical and optimized technologic experiences and products for everyone.*
 
+  <img height="30" src="https://skillicons.dev/icons?i=js,ts,cs,php,docker,nodejs,nestjs,aws,linux,git,jest,mongodb,postgres,redis" />
+
   <hr>
 
   | 🧙 Services ▼ | 🙋‍♀️ Open Source ▼ | ✉️ [Contact](mailto:ceo@ember-labs.org) | 🌐 [Website (only pt-BR)](https://ember-labs.org/) | 🍿 *Ember Now (soon)* |
