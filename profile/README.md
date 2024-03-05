@@ -13,7 +13,7 @@
   | - | - | - | - | - |
 </div>
 
-## 🧙 Services
+## Services
 
 We are a brazilian remote-first venture builder with worldwide customers born in 2021 in need of a dynamic and complete solution that eliminates bureaucracy that already exists in other companies. Our objective is to focus on the product and deprive small and large companies of the complications that comes with business development. Our philosophy is to adapt to our customers to offer the best possible personalized service in a transparent and direct way.
 
