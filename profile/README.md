@@ -37,6 +37,13 @@ Our services includes the development of:
 
 ## 🙋‍♀️ Open Source
 
-We belive that open source is the best way to have fine quality software. Open sourcing makes a better programming society and brings knowledge to everyone. Check out our FOSS projects:
+We belive that open source is the best way to have fine quality software. Open sourcing makes a better programming society and brings knowledge to everyone. Check out some of our FOSS projects:
 
-> Coming soon
+#### 🏹 [BasikJS](https://github.com/Ember-Labs-Core/BasikJS)
+
+```
+BasikJS is a TypeScript runtime written in modern .NET, focused on DevOps, server management and automation.
+It aims to provide a full set of features to ease pipeline tasks profiting from high parallelism and optimal usage
+of the device resources while keeping the simplicity and usability of JavaScript/TypeScript. Basik counts with its
+own spec and set of carefully selected functionalities to provide an optimal experience.
+```
