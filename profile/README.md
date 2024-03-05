@@ -1,6 +1,10 @@
-## <img src="/profile/assets/embericon.png" width="30"> Welcome to Ember Labs 👋
+<div align="center">
+  <img src="/profile/assets/embericon.png" width="100">
 
-Since 2021 we are creating optimized technologic experiences and products for everyone.
+  ##  Welcome to Ember Labs 👋
+</div>
+
+*Since 2021 are creating optimized technologic experiences and products for everyone.*
 <!--
 
 **Here are some ideas to get you started:**
