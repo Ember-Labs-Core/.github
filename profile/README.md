@@ -9,6 +9,6 @@
 
   <hr>
 
-  | 🧙 Our services | 🙋‍♀️ Open Source | 🍿 Ember Now | 📞 Contact |
-  | - | - | - | - |
+  | 🧙 Services | 🙋‍♀️ Open Source | 🍿 Ember Now | 📞 Contact | 🌐 Website |
+  | - | - | - | - | - |
 </div>
