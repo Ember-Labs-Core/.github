@@ -5,7 +5,7 @@
 
   <hr>
 
-  *Since 2021 are creating optimized technologic experiences and products for everyone.*
+  *Since 2021 creating magical and optimized technologic experiences and products for everyone.*
 
   <hr>
 
